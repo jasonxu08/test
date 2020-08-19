@@ -1,2 +1,2 @@
-one_new line
+one-changed line
 two lines
